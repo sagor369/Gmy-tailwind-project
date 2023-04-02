@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Gold's Gym",
+      "feature": ["Strength Training", "Cardio Machines", "Group Fitness Classes"],
+      "price": 50,
+      "type": "Standard"
+    },
+    {
+      "id": 2,
+      "name": "24 Hour Fitness",
+      "feature": ["Personal Training", "Swimming Pool", "Sauna"],
+      "price": 70,
+      "type": "Premium"
+    },
+    
+    {
+      "id": 3,
+      "name": "Planet Fitness",
+      "feature": ["Free Pizza Nights", "Tanning Beds", "No Judgement Zone"],
+      "price": 20,
+      "type": "Budget"
+    }
+]
+   
+  
